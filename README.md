@@ -3,7 +3,7 @@
 ![App UI](/UI.png)
 ## Notes
 
-The validator only work for indonesian code phone (+62).
+The validator only work for indonesian code phone (+62), you can change with ur own code phone.
 
 ## Getting Started
 
